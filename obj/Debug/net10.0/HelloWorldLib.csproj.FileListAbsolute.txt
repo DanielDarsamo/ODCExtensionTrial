@@ -1,0 +1,13 @@
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\bin\Debug\net10.0\HelloWorldLib.deps.json
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\bin\Debug\net10.0\HelloWorldLib.dll
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\bin\Debug\net10.0\HelloWorldLib.pdb
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\obj\Debug\net10.0\HelloWorldLib.csproj.AssemblyReference.cache
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\obj\Debug\net10.0\HelloWorldLib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\obj\Debug\net10.0\HelloWorldLib.AssemblyInfoInputs.cache
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\obj\Debug\net10.0\HelloWorldLib.AssemblyInfo.cs
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\obj\Debug\net10.0\HelloWorldLib.csproj.CoreCompileInputs.cache
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\obj\Debug\net10.0\HelloWorldLib.sourcelink.json
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\obj\Debug\net10.0\HelloWorldLib.dll
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\obj\Debug\net10.0\refint\HelloWorldLib.dll
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\obj\Debug\net10.0\HelloWorldLib.pdb
+c:\Users\DanielDarsamo\Documents\Repos\ODCExtensionTrial\obj\Debug\net10.0\ref\HelloWorldLib.dll
